@@ -11,7 +11,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 @MapperScan("com.hmdp.mapper")
 @SpringBootApplication
 public class HmDianPingApplication {
-    // 这是一条测试git提交+回溯的注释
+    // 这是一条测试git提交+回溯的注释，这是第二版啦
     public static void main(String[] args) {
         SpringApplication.run(HmDianPingApplication.class, args);
     }
